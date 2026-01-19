@@ -1,7 +1,7 @@
 # system-design-notes
 
 Have you ever found yourself in a system design review and thought: “I’m not sure I fully understand what’s going on… am I missing something?”. 
-If so, you’re not alone. Many TPMs experience a bit of imposter syndrome in these meetings — especially when engineers dive 
+If so, you’re not alone. Many TPMs experience a bit of imposter syndrome in design review meetings, especially when engineers dive 
 into technical trade-offs, scaling strategies, or database choices. The good news that understanding in depth the system design fundamentals 
 can give you the context to ask the right questions, anticipate technical risks, and connect technical decisions to business outcomes.
 
